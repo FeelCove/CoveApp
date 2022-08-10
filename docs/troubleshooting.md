@@ -1,6 +1,6 @@
 # Troubleshooting
 
-- LED blinks amber for a few secs when single pressing the power button. See [[Unlocking the Cove device](device_unlocking.md)]
+- LED blinks amber for a few secs when single pressing the power button. See [Unlocking the Cove device](device_unlocking.md)
 
 - LED blinks red for a second when single pressing the power button. This means that the device battery doesn't have enough charge to run a session. Please fully charge the device to clear this error. The LED will change from blinking green to solid green when fully charged, and it will automatically turn off after 3 mins in this state.
 
