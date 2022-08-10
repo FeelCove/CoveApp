@@ -15,4 +15,4 @@
 - The development console is now active (as shown below), and we can now connect to the Cove device.
 <img src="/images/development_console.png" width="200" height="400">
 
-- See next section: [Connecting Cove to Android development app](connecting.md)to follow the instructions for connecting the development app to your Cove device.
+- See next section: [Connecting Cove to Android development app](connecting.md) to follow the instructions for connecting the development app to your Cove device.
