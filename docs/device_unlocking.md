@@ -1,6 +1,6 @@
 # Unlocking the Cove device
 
-- Your device may be locked if the LED blinks amber for ~3 secs when attempting to start a session with the power button. You will need to unlock the device with the development app as described below.
+Your device may be locked if the LED blinks amber for ~3 secs when attempting to start a session with the power button. You will need to unlock the device with the development app as described below.
 
 - Install the Android apk [android_dev.apk](../apk/android_dev.apk) on your mobile device. See section [Downloading and installing Android apk](download_install_apk.md).
 

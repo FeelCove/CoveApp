@@ -9,7 +9,7 @@
 | Cannot feel the vibrations even though device is snug on the back of your head| Remove the device, and check if you can feel the vibrations with your fingers. If you can feel the vibrations with your fingers then you need to make sure there are no gaps between the vibration points and the back of your ears
 | | If you cannot feel the vibrations with your fingers then try performing a soft reset. See [Device Reset](device_reset.md). If the soft reset doesn't fix the issue the issue may be hardware related |
 |Cannot connect to the development app | Remove Cove from your list of Bluetooth devices under the phone Bluetooth settings. See [Connecting Cove to Android development app](connecting.md) for more information on how to connect Cove to the development app|
-|For other unexplained behavior not covered above|If you are experiencing any other issues that may be causing the device to become unresponsive, then perform a factory restore. See See [Device Reset](device_reset.md) for details|
+|For other unexplained behavior not covered above|If you are experiencing any other issues that may be causing the device to become unresponsive, then perform a factory restore. See [Device Reset](device_reset.md) for details|
 
 ### Notes
 - If you wish to downgrade your device to the latest firmware released to customers (2.10.0) then follow the same steps described under [Upgrading firmware with apk](firmware_upgrade.md), but using the [eagle_oad_2.10.0.bin](../firmware/eagle_oad_2.10.0.bin) image instead.
