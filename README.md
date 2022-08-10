@@ -1,4 +1,4 @@
-# CoveApp
+# Firmware Upgrade and Android Development application
 
 This document explains how to a) connect your Cove to the development app, b) manually upgrade the firmware on your Cove device, and c) troubleshoot device errors. These steps require the installation of the Android Cove development application (apk).
 
