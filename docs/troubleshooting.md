@@ -12,4 +12,4 @@
 |For other unexplained behavior not covered above|If you are experiencing any other issues that may be causing the device to become unresponsive, then perform a factory restore. See [Device Reset](device_reset.md) for details|
 
 ### Notes
-- If you wish to downgrade your device to the latest firmware released to customers (2.10.0) then follow the same steps described under [Upgrading firmware with apk](firmware_upgrade.md), but using the [eagle_oad_2.10.0.bin](../firmware/eagle_oad_2.10.0.bin) image instead.
+- If you wish to downgrade your device to the latest firmware released to customers (2.10.0) then follow the same steps described under [Upgrading firmware](firmware_upgrade.md), but using the [eagle_oad_2.10.0.bin](../firmware/eagle_oad_2.10.0.bin) image instead.
