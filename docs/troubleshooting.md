@@ -22,4 +22,10 @@
 
 
 - Cannot connect to the development app:
-  - Remove Cove from your list of Bluetooth devices under the phone Bluetooth settings. See [Connecting Cove to Android development app](docs/connecting.md) for more information on how to connect Cove to the development app.
+  - Remove Cove from your list of Bluetooth devices under the phone Bluetooth settings. See [Connecting Cove to Android development app](connecting.md) for more information on how to connect Cove to the development app.
+
+
+- For other unexplained behavior not covered above:
+  - If you are experiencing any other issues that may be causing the device to become unresponsive, then perform a factory restore. See See [Device Reset](device_reset.md) for details.
+
+- If you want to downgrade your device to the latest firmware released to customers 2.10.0 then follow the same steps under [Upgrading firmware with apk](firmware_upgrade.md), but using the [eagle_oad_2.10.0.bin](../firmware/eagle_oad_2.10.0.bin) instead.

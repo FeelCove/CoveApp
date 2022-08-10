@@ -14,3 +14,5 @@
 
 - You may need to repeat the 'Connect' step more than once, if Cove gets disconnected by the phone. When the phone and Cove are connected, the development console will look as follows:
 <img src="/images/device_connected.png" width="200" height="400">
+
+- See next section: [Upgrading firmware with apk](firmware_upgrade.md) to follow the instructions for upgrading the firmware on your Cove device.

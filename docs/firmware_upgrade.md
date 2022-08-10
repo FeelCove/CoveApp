@@ -18,5 +18,4 @@
 
 - You can now start using your Cove!
 
-### Notes
 - See [Troubleshooting](troubleshooting.md) section if you experience any issues after upgrading the device to firmware version 2.10.1.
