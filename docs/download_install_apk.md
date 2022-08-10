@@ -1,6 +1,6 @@
-## Downloading and installing Android development apk
+# Downloading and installing Android development apk
 
-- Download the android_dev.apk file from /apk folder to your mobile device.
+- Download the [android_dev.apk](apk/android_dev.apk) file to your mobile device.
 - Locate the apk file on your mobile device after downloading it.
 - Select the file and choose “Install”.
 - Find and tap the 'Cove DEV' app icon; the main screen is shown below. No need to login to the app, as we just want to get to the development console.

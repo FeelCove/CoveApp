@@ -1,4 +1,4 @@
-## Connecting Cove to Android development app
+# Connecting Cove to Android development app
 
 - Install the Android apk [android_dev.apk](apk/android_dev.apk) on your mobile device. See section [Downloading and installing Android apk](#downloading-and-installing-android-apk) above.
 
@@ -12,5 +12,5 @@
 - The connection state should be shown as 'Registering' when the phone and Cove are trying to connect:
 <img src="/images/device_connecting.png" width="200" height="400">
 
-- You may need to repeat the 'Connect' step twice, if Cove gets disconnected by the phone. When the phone and Cove are connected the development console will look as follows:
+- You may need to repeat the 'Connect' step more than once, if Cove gets disconnected by the phone. When the phone and Cove are connected, the development console will look as follows:
 <img src="/images/device_connected.png" width="200" height="400">

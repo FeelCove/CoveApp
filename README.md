@@ -8,8 +8,10 @@ Because we are no longer providing support for the Cove production app, there is
 
 ## [Connecting Cove to Android development app](docs/connecting.md)
 
-## [Unlocking the Cove device](docs/device_unlocking.md)
-
 ## [Upgrading firmware with apk](docs/firmware_upgrade.md)
 
-### [Troubleshooting](docs/troubleshooting.md)
+## [Unlocking the Cove device](docs/device_unlocking.md)
+
+## [Device Reset](docs/device_reset.md)
+
+## [Troubleshooting](docs/troubleshooting.md)
