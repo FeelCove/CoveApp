@@ -10,7 +10,7 @@ Both firmware images located under [/firmware](/firmware/) do not require the us
 
 ## [Connecting Cove to Android development app](docs/connecting.md)
 
-## [Upgrading firmware with apk](docs/firmware_upgrade.md)
+## [Upgrading firmware with Android development app](docs/firmware_upgrade.md)
 
 ## [Unlocking the Cove device](docs/device_unlocking.md)
 

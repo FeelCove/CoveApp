@@ -1,4 +1,4 @@
-## Upgrading firmware with apk
+## Upgrading firmware with Android development app
 
 - Download the firmware file [eagle_oad_2.10.1.bin](../firmware/eagle_oad_2.10.1.bin) onto your mobile device.
 - Install the Android apk [android_dev.apk](../apk/android_dev.apk) on your mobile device. See section [Downloading and installing Android apk](download_install_apk.md).
