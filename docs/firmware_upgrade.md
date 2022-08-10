@@ -1,9 +1,9 @@
 ## Upgrading firmware with apk
 
 - Download the firmware file [eagle_oad_2.10.1.bin](../firmware/eagle_oad_2.10.1.bin) onto your mobile device.
-- Install the Android apk [android_dev.apk](../apk/android_dev.apk) on your mobile device. See section [Downloading and installing Android apk](download_install_apk.md) above.
-- Connect Cove to the development app. See [Connecting Cove to Android development app](connecting.md) above.
-- Swipe right to open the console menu again, scroll down all the way to the bottom and select 'PERFORM OAD WITH EXTERNAL FILE'.
+- Install the Android apk [android_dev.apk](../apk/android_dev.apk) on your mobile device. See section [Downloading and installing Android apk](download_install_apk.md).
+- Connect Cove to the development app. See [Connecting Cove to Android development app](connecting.md).
+- Swipe right to open the console menu, scroll down all the way to the bottom and select 'PERFORM OAD WITH EXTERNAL FILE'.
 <img src="/images/flash_reset_version_oad.png" width="200" height="400">
 
 - Select the eagle_oad_2.10.1.bin file downloaded (on the first step above) to upgrade the device to this version. The Cove LED should start blinking white when upgrading the firmware. It is advised not to switch away from the app screen to another app during this process and not allow your phone to fall asleep, as it could disrupt the upgrade process. This process should take 2 - 4 minutes. Upon successful upgrade, the device will disconnect, turn off, and then turn back on.

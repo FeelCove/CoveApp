@@ -12,5 +12,7 @@
 - After selecting 'START', the development app will request the necessary permissions, choose 'While using the app' option.
 <img src="/images/allow_permissions.png" width="200" height="400">
 
-- The development console is now active (as shown below), and we can now connect to the Cove device. See next section: [Upgrading firmware with apk](firmware_upgrade.md) to follow the instructions for connecting and upgrading the firmware on your Cove device.
+- The development console is now active (as shown below), and we can now connect to the Cove device.
 <img src="/images/development_console.png" width="200" height="400">
+
+- See next section: [Connecting Cove to Android development app](connecting.md)to follow the instructions for connecting the development app to your Cove device.

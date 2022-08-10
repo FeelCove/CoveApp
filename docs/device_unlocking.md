@@ -2,9 +2,9 @@
 
 - Your device may be locked if the LED blinks amber for ~3 secs when attempting to start a session with the power button. You will need to unlock the device with the development app as described below.
 
-- Install the Android apk [android_dev.apk](../apk/android_dev.apk) on your mobile device. See section [Downloading and installing Android apk](download_install_apk.md) above.
+- Install the Android apk [android_dev.apk](../apk/android_dev.apk) on your mobile device. See section [Downloading and installing Android apk](download_install_apk.md).
 
-- Connect Cove to the development app. See [Connecting Cove to Android development app](connecting.md) above.
+- Connect Cove to the development app. See [Connecting Cove to Android development app](connecting.md).
 
 - After connecting the app to the device, swipe right to open the menu and press on the 'Clear Locks' button, as shown below.
 <img src="/images/clear_locks.png" width="200" height="400">
