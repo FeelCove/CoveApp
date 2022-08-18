@@ -9,7 +9,7 @@
   <img src="/images/flash_reset_version_oad.png" width="200" height="400">
 
 
-6. To begin the upgrade, select the eagle_oad_2.10.1.bin file to you previously downloaded.
+6. To begin the upgrade, select the eagle_oad_2.10.1.bin file you previously downloaded.
   - When selecting the file in the Android interface, make sure to navigate to the folder where the file was downloaded. That is because in some cases, you may not be able to select the file if it was accessed via a shortcut to the folder.
   - The LED will blink white for 2-4 minutes while the upgrade installs.
   - During the upgrade process, do not navigate away from this screen, and do not allow the phone to enter sleep mode.

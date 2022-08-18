@@ -6,10 +6,12 @@
 
 3. Connect the Cove device to the USB charger. The LED should start blinking green. However, the LED may remain solid green if the device is fully charged.
 
-4. From the development console, tap the gear icon in the top-left corner to access the menu. Tap the “Connect” button to connect your Cove. If this is the first time connecting your Cove, accept the request to “Pair and connect” when prompted.
+4. From the development console, tap the gear icon in the top-left corner to access the menu.
+  - Tap the “Connect” button to connect your Cove.
+  - If this is the first time connecting your Cove, accept the request to “Pair and connect” when prompted.
 
-  <img src="/images/dev_console_menu_connect.png" width="200" height="400">
-
+    <img src="/images/dev_console_menu_connect.png" width="200" height="400">
+    
 
 5. After a connection is established, the command console will say “Connected”. If Cove becomes disconnected, you can reconnect at any time by tapping the gear icon in the top-left corner, then tapping “Connect”.
 
