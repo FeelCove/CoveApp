@@ -14,6 +14,8 @@ For additional information on how to use your Cove device check the [Cove User M
 
 ## [Unlocking the Cove device](docs/device_unlocking.md)
 
+## [Upgrading firmware with Android development app](docs/firmware_upgrade.md)
+
 ## [Device Reset](docs/device_reset.md)
 
 ## [Troubleshooting](docs/troubleshooting.md)
