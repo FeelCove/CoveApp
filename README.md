@@ -1,6 +1,6 @@
 # Firmware upgrade and Android development application
 
-This document explains how to a) connect your Cove to the development app, b) manually upgrade the firmware on your Cove device, and c) troubleshoot device errors. These steps require the installation of the Android Cove development application (apk).
+This document explains how to a) connect your Cove to the development app, b) unlock your new Cove device, c) manually upgrade the firmware on your Cove device, and d) troubleshoot device errors. These steps require the installation of the Android Cove development application (apk).
 
 Because we are no longer providing support for the Cove production app, there is no need to have the sensors and data logging active in your Cove device as this will decrease the battery life. However, if your device is already on firmware version 2.10.0, and the battery life of your device is OK then you don't need to perform the firmware upgrade to 2.10.1. If, however, the firmware version on your device is lower than 2.10.0 then a firmware upgrade is recommended.
 
@@ -13,8 +13,6 @@ For additional information on how to use your Cove device check the [Cove User M
 ## [Connecting Cove to Android development app](docs/connecting.md)
 
 ## [Unlocking the Cove device](docs/device_unlocking.md)
-
-## [Upgrading firmware](docs/firmware_upgrade.md)
 
 ## [Device Reset](docs/device_reset.md)
 
