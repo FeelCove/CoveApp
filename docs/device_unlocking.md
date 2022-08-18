@@ -13,3 +13,6 @@ Your device may be locked if the LED blinks amber for ~3 secs when attempting to
 4. If successful, you should see the "clearing locks = ..SET" in the console as shown below, and you should be able to start a session in your device, LED should be blinking purple, and you should feel the vibrations.
 
   <img src="/images/clear_locks_true.png" width="200" height="400">
+
+
+5. See section [Upgrading firmware](firmware_upgrade.md) to follow the instructions for upgrading the firmware on your Cove device.
