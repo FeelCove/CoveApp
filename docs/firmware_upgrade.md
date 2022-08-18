@@ -29,4 +29,7 @@
 
     <img src="/images/flash_reset.png" width="200" height="400">
 
+
+10. See section [Upgrading firmware](firmware_upgrade.md) to follow the instructions for upgrading the firmware on your Cove device.
+
 See [Troubleshooting](troubleshooting.md) section if you experience any issues after upgrading the device to firmware version 2.10.1.

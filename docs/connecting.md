@@ -11,11 +11,11 @@
   - If this is the first time connecting your Cove, accept the request to “Pair and connect” when prompted.
 
     <img src="/images/dev_console_menu_connect.png" width="200" height="400">
-    
+
 
 5. After a connection is established, the command console will say “Connected”. If Cove becomes disconnected, you can reconnect at any time by tapping the gear icon in the top-left corner, then tapping “Connect”.
 
   <img src="/images/device_connected.png" width="200" height="400">
 
 
-6. See section [Upgrading firmware](firmware_upgrade.md) to follow the instructions for upgrading the firmware on your Cove device.
+6. See section [Unlocking the Cove device](device_unlocking.md) to follow the instructions for unlocking your Cove device.
