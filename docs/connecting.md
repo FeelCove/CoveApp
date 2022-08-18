@@ -1,6 +1,6 @@
 # Connecting Cove to Android development app
 
-1. Install the Android apk [android_dev.apk](../apk/android_dev.apk) on your mobile device. See section [Downloading and installing Android apk](download_install_apk.md) above.
+1. Install the Android apk [android_dev.apk](../apk/android_dev.apk) on your mobile device. See section [Downloading and installing Android apk](download_install_apk.md).
 
 2. If you have multiple Cove devices then ensure that all other Cove devices, except for the one that you wish to upgrade, are off or far away from the area in which you'll be working.
 
