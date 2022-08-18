@@ -6,6 +6,8 @@ Because we are no longer providing support for the Cove production app, there is
 
 Both firmware images located under [/firmware](/firmware/) do not require the use of the production app. The [eagle_oad_2.10.1.bin](/firmware/eagle_oad_2.10.1.bin) image disables the sensors and data logging to extend battery life. The [eagle_oad_2.10.0.bin](/firmware/eagle_oad_2.10.0.bin) is the latest image released to customers.
 
+For additional information on how to use your Cove device check the [Cove User Manual](docs/Cove-UserManual-042022-compressed-min-compressed.pdf).
+
 ## [Downloading and installing Android development apk](docs/download_install_apk.md)
 
 ## [Connecting Cove to Android development app](docs/connecting.md)
