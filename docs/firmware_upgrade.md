@@ -1,21 +1,28 @@
 ## Upgrading firmware with Android development app
 
-- Download the firmware file [eagle_oad_2.10.1.bin](../firmware/eagle_oad_2.10.1.bin) onto your mobile device.
-- Install the Android apk [android_dev.apk](../apk/android_dev.apk) on your mobile device. See section [Downloading and installing Android apk](download_install_apk.md).
-- Connect Cove to the development app. See [Connecting Cove to Android development app](connecting.md).
-- Swipe right to open the console menu, scroll down all the way to the bottom and select 'PERFORM OAD WITH EXTERNAL FILE'.
-<img src="/images/flash_reset_version_oad.png" width="200" height="400">
+1. Download the firmware file [eagle_oad_2.10.1.bin](../firmware/eagle_oad_2.10.1.bin) onto your mobile device.
+2. Install the Android apk [android_dev.apk](../apk/android_dev.apk) on your mobile device. See section [Downloading and installing Android apk](download_install_apk.md).
+3. Connect Cove to the development app. See [Connecting Cove to Android development app](connecting.md).
+4. After connecting Cove to the app, tap the gear icon in the top-left corner to access the menu.
+5. At the bottom of the menu, locate the option to “Perform OAD with External File”
 
-- Select the eagle_oad_2.10.1.bin file downloaded (on the first step above) to upgrade the device to this version. The Cove LED should start blinking white when upgrading the firmware. It is advised not to switch away from the app screen to another app during this process and not allow your phone to fall asleep, as it could disrupt the upgrade process. This process should take 2 - 4 minutes. Upon successful upgrade, the device will disconnect, turn off, and then turn back on.
-- Also, if the OAD process was successfully started, then it should say so in the console window as shown below:
-<img src="/images/oad_started.png" width="200" height="400">
+  <img src="/images/flash_reset_version_oad.png" width="200" height="400">
 
-- To reconnect to the device, swipe right to open the app menu, select 'Connect' and wait until the phone and Cove are connected. Swipe right again to open the menu, scrolling all the way to the bottom, select "GET VERSION" to confirm successful update to version 2.10.1.
-<img src="/images/get_version.png" width="200" height="400">
+6. To begin the upgrade, select the eagle_oad_2.10.1.bin file to you previously downloaded.
+  - If the app is not allowing you to select the bin file, navigate to other paths in the folder, and then go back to where the file is located.
+  - The LED will blink white for 2-4 minutes while the upgrade installs.
+  - During the upgrade process, do not navigate away from this screen, and do not allow the phone to enter sleep mode.
+  - Once complete, the LED will return to pulsing green.
 
-- Next, erase Cove external flash to delete any old session files. To do this swipe right again to open the menu, scroll down all the way to the bottom and select 'FLASH RESET'. The Cove LED should start blinking white. Please wait until LED stops blinking white to start using the device.
+
+7. Reconnect Cove to the app.
+
+8. At the bottom of the menu, tap “GET VERSION” to confirm the upgrade succeeded.  The correct version is 2.10.1.
+
+  <img src="/images/get_version.png" width="200" height="400">
+
+9. Finally, at the bottom of the menu, tap “FLASH RESET”.  Cove will begin blinking white while resetting.  Upon returning to a green LED, Cove is ready for use.
+
 <img src="/images/flash_reset.png" width="200" height="400">
 
-- You can now start using your Cove!
-
-- See [Troubleshooting](troubleshooting.md) section if you experience any issues after upgrading the device to firmware version 2.10.1.
+See [Troubleshooting](troubleshooting.md) section if you experience any issues after upgrading the device to firmware version 2.10.1.
